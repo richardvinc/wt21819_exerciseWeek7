@@ -7,10 +7,5 @@ Keterangan:
 Instruksi:
 1.	Edit source code yang diberikan agar hasil aplikasi dapat menjadi seperti contoh yang diberikan
 2.	Tidak ada source code yang dihapus, hanya ada yang ditambahkan.
-Hasil akhir proyek:
- 
-Figure 1 halaman awal aplikasi
- 
-Figure 2 menu "country list" akan membawa pengguna kembali ke page 1
- 
-Figure 3 tampilan aplikasi ketika tombol sebuah negara ditekan
+
+catatan: hasil proyek dapat dilihat di elearning
